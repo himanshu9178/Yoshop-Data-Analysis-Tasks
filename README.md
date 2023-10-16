@@ -37,15 +37,15 @@ https://www.amazon.in/
 Using web scraping, do analysis of mobiles 5G in website having price less than or equal to Rs. 25000. In the dataset and Mobile  less than Rs.12000.
 Web scraping in below web site:
 ### Datasets:-
-https://www.amazon.in/
-https://www.flipkart.com/
+https://www.amazon.in/, 
+https://www.flipkart.com/, 
 https://www.reliancedigital.in/
 ## Task-6
 Analysis of different products in HRX Brand from different ecommerce website  ..... Having cost less than Rs 500.
 Web scraping in below web site:
 ### Datasets:-
-https://www.myntra.com/
-https://www.flipkart.com/
+https://www.myntra.com/, 
+https://www.flipkart.com/, 
 https://www.amazon.in/hrx/s?k=hrx
 ## Task-7
 Prepare a dataset of mobile phones having price less than or equal to Rs. 10000. In the dataset. 
