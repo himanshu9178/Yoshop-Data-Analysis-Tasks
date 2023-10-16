@@ -25,3 +25,42 @@ Fake Buyer Identification, Find the order id satisfying following conditions:
 Present all the subtasks in the form of charts
 ### Datasets:-
 Orders_2021_updated
+## Task-4
+Prepare a dataset of laptops(including second hand laptops also) having price less than or equal to Rs. 25000. In the dataset. 
+Include all necessary feature required for a laptop
+Collect the data by doing webscraping of different websites  
+Prepare a dashboard corresponding to the dataset made and find insights.
+Web scraping in below web site:
+### Datasets:-
+https://www.amazon.in/
+## Task-5:-
+Using web scraping, do analysis of mobiles 5G in website having price less than or equal to Rs. 25000. In the dataset and Mobile  less than Rs.12000.
+Web scraping in below web site:
+### Datasets:-
+https://www.amazon.in/
+https://www.flipkart.com/
+https://www.reliancedigital.in/
+## Task-6
+Analysis of different products in HRX Brand from different ecommerce website  ..... Having cost less than Rs 500.
+Web scraping in below web site:
+### Datasets:-
+https://www.myntra.com/
+https://www.flipkart.com/
+https://www.amazon.in/hrx/s?k=hrx
+## Task-7
+Prepare a dataset of mobile phones having price less than or equal to Rs. 10000. In the dataset. 
+Include all necessary feature required for a mobile phone like : 
+RAM, storage, Front Camera, Rear camera, Display, Processor etc.....
+Collect the data by doing webscraping of different websites  
+Prepare a dashboard corresponding to the dataset made and find insights.
+### Datasets:-
+
+## Task-8
+Make a dataset including all colleges and higher secondary schools in Aurangabad , Maharashtra. 
+Include  the courses offered, website link, number of students, contact details, address etc as columns
+Do analysis of the dataset formed
+
+## Task-9
+Form a dataset consisting details of products that are in diwali sale at different e commerce sites. 
+Please don't include luxury items(Cut off : Fashion R.999
+Mobile and Electronic Rs.10000)
