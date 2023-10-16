@@ -4,6 +4,7 @@ Prepare Yoshops Survey and Order excel charts like Pie Chart and Bar Chart Weekl
 Use data cleaning process for removing unnecessary data from all Reports.
 ### Datasets:-
 Order_list, Feedback, Survay_1786
+[Task-1](https://github.com/himanshu9178/Yoshop-Data-Analysis-Tasks/blob/main/yoshop%20task%201.pdf)
 ## Task-2
 Genrate Graph chart for :
 1. Analysis of Reviews given by Customers
@@ -16,6 +17,7 @@ Genrate Graph chart for :
 8. Analysis of Number of Orders Across Parts of a Day
 ### Datasets:-
 review, Orders_2016-2020
+[Task-2]()
 ## Task-3
 Fake Buyer Identification, Find the order id satisfying following conditions:
 1.The shipping address differs from the billing address.
