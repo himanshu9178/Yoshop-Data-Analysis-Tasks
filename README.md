@@ -4,7 +4,7 @@ Prepare Yoshops Survey and Order excel charts like Pie Chart and Bar Chart Weekl
 Use data cleaning process for removing unnecessary data from all Reports.
 ### Datasets:-
 Order_list, Feedback, Survay_1786
-### [Task-1](https://github.com/himanshu9178/Yoshop-Data-Analysis-Tasks/yoshop task 1.pdf)
+### [yoshop task 1.pdf](https://github.com/himanshu9178/Yoshop-Data-Analysis-Tasks/files/12919827/yoshop.task.1.pdf)
 ## Task-2
 Genrate Graph chart for :
 1. Analysis of Reviews given by Customers
@@ -17,7 +17,7 @@ Genrate Graph chart for :
 8. Analysis of Number of Orders Across Parts of a Day
 ### Datasets:-
 review, Orders_2016-2020
-[Task-2]()
+### [task-2.pdf](https://github.com/himanshu9178/Yoshop-Data-Analysis-Tasks/files/12919833/task-2.pdf)
 ## Task-3
 Fake Buyer Identification, Find the order id satisfying following conditions:
 1.The shipping address differs from the billing address.
@@ -27,6 +27,7 @@ Fake Buyer Identification, Find the order id satisfying following conditions:
 Present all the subtasks in the form of charts
 ### Datasets:-
 Orders_2021_updated
+### [Task-3 report.pdf](https://github.com/himanshu9178/Yoshop-Data-Analysis-Tasks/files/12919838/Task-3.report.pdf)
 ## Task-4
 Prepare a dataset of laptops(including second hand laptops also) having price less than or equal to Rs. 25000. In the dataset. 
 Include all necessary feature required for a laptop
@@ -35,6 +36,7 @@ Prepare a dashboard corresponding to the dataset made and find insights.
 Web scraping in below web site:
 ### Datasets:-
 https://www.amazon.in/
+### [Task 4 Visualisation Web Scrapping.pdf](https://github.com/himanshu9178/Yoshop-Data-Analysis-Tasks/files/12919844/Task.4.Visualisation.Web.Scrapping.pdf)
 ## Task-5:-
 Using web scraping, do analysis of mobiles 5G in website having price less than or equal to Rs. 25000. In the dataset and Mobile  less than Rs.12000.
 Web scraping in below web site:
@@ -42,6 +44,7 @@ Web scraping in below web site:
 https://www.amazon.in/, 
 https://www.flipkart.com/, 
 https://www.reliancedigital.in/
+### [TASK 5.pdf](https://github.com/himanshu9178/Yoshop-Data-Analysis-Tasks/files/12919851/TASK.5.pdf)
 ## Task-6
 Analysis of different products in HRX Brand from different ecommerce website  ..... Having cost less than Rs 500.
 Web scraping in below web site:
