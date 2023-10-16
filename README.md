@@ -1,1 +1,1 @@
-# Web scraping websites and making visualizations using power BI
+# Web scraping sites and making visualizations using power BI
