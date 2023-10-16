@@ -4,7 +4,7 @@ Prepare Yoshops Survey and Order excel charts like Pie Chart and Bar Chart Weekl
 Use data cleaning process for removing unnecessary data from all Reports.
 ### Datasets:-
 Order_list, Feedback, Survay_1786
-### [Task-1](https://github.com/himanshu9178/Yoshop-Data-Analysis-Tasks/main/yoshop task 1.pdf)
+### [Task-1](https://github.com/himanshu9178/Yoshop-Data-Analysis-Tasks/yoshop task 1.pdf)
 ## Task-2
 Genrate Graph chart for :
 1. Analysis of Reviews given by Customers
